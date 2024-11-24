@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **AI_Lesson: Listen to the Story Behind the Picture**  
 # **坤坤给你讲故事**
 
