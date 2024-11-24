@@ -79,7 +79,7 @@ streamlit run app.py
 
 ## **注意事项**
 - 本项目中的部分功能（如语音合成）需要依赖特定系统环境或文件。请确保按照上述说明准备所需资源。
-- 项目久远，Windows 部署兼容性较差，colab训练约50个epochg会被掐，若能本地训练，推荐使用 Linux 或 WSL 部署。
+- 项目久远，Windows 部署兼容性较差，colab训练约50个epoch会被掐，若能本地训练，推荐使用 Linux 或 WSL 部署。
 
 ---
 
