@@ -1,0 +1,7 @@
+#忽略大文件
+KUN_script/model/
+blip-image-caption-base/
+#忽略日志文件
+*.log
+#忽略.idea配置
+.idea/
